@@ -74,8 +74,8 @@ Interpretación: El análisis muestra un promedio de r round(mean(silueta[,3]), 
 ```r
 install.packages(c("klaR", "tidyverse"))
 
-## Uso
 
+## Uso
 source("KModes.R")
 
 
