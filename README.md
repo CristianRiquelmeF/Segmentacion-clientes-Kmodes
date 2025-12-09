@@ -74,7 +74,7 @@ Estructura del Script
 - Paquetes: klaR, tidyverse
 
 ## Instalación
-```r
+
 install.packages(c("klaR", "tidyverse"))
 
 
