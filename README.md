@@ -94,8 +94,11 @@ install.packages(c("klaR", "tidyverse"))
 ## Uso
 source("KModes.R")
 
+## Resultados
+El script genera un archivo `Clientes_Segmentados_Final.csv` con la etiqueta de clúster asignada a cada individuo, permitiendo su posterior explotación en herramientas de BI o campañas de CRM.
 
-
+---
+*Proyecto realizado como parte de un portafolio de Data Science aplicado a Sociología.*
     
    
     
