@@ -1,6 +1,6 @@
 
 
- Proyecto de Segmentación de Clientes con KModes
+ **Proyecto de Segmentación de Clientes con KModes**
  Descripción del Proyecto
 
 Este proyecto implementa un algoritmo de segmentación de clientes utilizando K-Modes, una variante del algoritmo K-Means diseñada para datos categóricos. 
