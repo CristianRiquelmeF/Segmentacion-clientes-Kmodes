@@ -1,13 +1,15 @@
 
 
  **Proyecto de Segmentación de Clientes con KModes**
- Descripción del Proyecto
+ 
+ **Descripción del Proyecto**
 
 Este proyecto implementa un algoritmo de segmentación de clientes utilizando K-Modes, una variante del algoritmo K-Means diseñada para datos categóricos. 
 El análisis se basa en datos de marketing que permiten identificar patrones sociológicos diferenciados para optimizar la estrategia de comunicación y permitir estrategias de marketing personalizadas.
 
 
- Metodología Técnica
+ **Metodología Técnica**
+ 
     Fuente de Datos: Base de marketing con 2,200+ registros.
     R (Lenguaje de programación estadística)
     klaR (Paquete para algoritmo K-Modes)
@@ -15,7 +17,7 @@ El análisis se basa en datos de marketing que permiten identificar patrones soc
     Clustering con algoritmo K-Modes (específico para variables categóricas).
     Validación: Estadística inferencial (Pruebas Chi-Cuadrado) y Análisis de Silueta de Gower.
 
-Estructura del Script
+**Estructura del Script**
 
  Preprocesamiento Sociológico (Feature Engineering)
 
