@@ -10,7 +10,7 @@ El análisis se basa en datos de marketing que permiten identificar patrones soc
 
  **Metodología Técnica**
  
-    Fuente de Datos: Base de marketing con 2,200+ registros.
+    Fuente de Datos: Base de marketing con 2,200+ registros. (Disponible en Kaggle)
     R (Lenguaje de programación estadística)
     klaR (Paquete para algoritmo K-Modes)
     tidyverse (dplyr, ggplot2 - manipulación y visualización)
