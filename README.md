@@ -51,7 +51,8 @@ Estructura del Script
 
     Pruebas de Chi-Cuadrado para verificar dependencia entre clusters y variables
 
-    Evaluación de significancia estadística (p-value < 0.05). Los valores P cercanos a 0 indican que las diferencias entre grupos son reales y significativas.
+    Evaluación de significancia estadística (p-value < 0.05). 
+    Los valores P cercanos a 0 indican que las diferencias entre grupos son reales y significativas.
 
 
    <img width="876" height="211" alt="chi-cuadrado" src="https://github.com/user-attachments/assets/2017006b-0ef3-4999-a02a-4a02bafb8a44" />
