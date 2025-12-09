@@ -44,7 +44,7 @@ Estructura del Script
 
   <img width="635" height="213" alt="Rplot" src="https://github.com/user-attachments/assets/9d3a3923-19dc-4879-a807-b9ec39d42f1f" />
 
-<img width="597" height="343" alt="Facet_Grid" src="https://github.com/user-attachments/assets/3882e997-e768-406f-be51-feb4ca9932e2" />
+  <img width="597" height="343" alt="Facet_Grid" src="https://github.com/user-attachments/assets/3882e997-e768-406f-be51-feb4ca9932e2" />
 
 
   Validación Estadística
@@ -54,7 +54,7 @@ Estructura del Script
     Evaluación de significancia estadística (p-value < 0.05). Los valores P cercanos a 0 indican que las diferencias entre grupos son reales y significativas.
 
 
-    <img width="876" height="211" alt="chi-cuadrado" src="https://github.com/user-attachments/assets/2017006b-0ef3-4999-a02a-4a02bafb8a44" />
+   <img width="876" height="211" alt="chi-cuadrado" src="https://github.com/user-attachments/assets/2017006b-0ef3-4999-a02a-4a02bafb8a44" />
 
 
   Análisis de Silueta (Cohesión)
