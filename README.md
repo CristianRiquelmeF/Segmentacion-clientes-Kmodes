@@ -66,6 +66,18 @@ Evaluamos qué tan bien definidos están los grupos sociológicamente.
 Interpretación: El análisis muestra un promedio de r round(mean(silueta[,3]), 2). Sociológicamente, esto indica la existencia de dos núcleos duros de comportamiento (Clústeres 2 y 3) altamente accionables, y un grupo más disperso (Clúster 1) que representa a la audiencia generalista.
 
 
+## Requisitos
+- R >= 4.0.0
+- Paquetes: klaR, tidyverse
+
+## Instalación
+```r
+install.packages(c("klaR", "tidyverse"))
+
+## Uso
+
+source("KModes.R")
+
 
 
     
