@@ -70,6 +70,17 @@ El análisis se basa en datos de marketing que permiten identificar patrones soc
     esto indica la existencia de dos núcleos duros de comportamiento (Clústeres 2 y 3) altamente accionables, 
     y un grupo más disperso (Clúster 1) que representa a la audiencia generalista.
 
+    Clúster 1 (Rojo - Promedio 0.13): 
+    Es el grupo más "inestable" o heterogéneo. Las barras que van hacia la izquierda (valores negativos). 
+    Esos son individuos que el algoritmo puso en el Grupo 1, pero que se parecen mucho a los del Grupo 2 o 3. Son "casos borde".
+
+    Clúster 2 (Azul - Promedio 0.30) y Clúster 3 (Verde - Promedio 0.34):
+    Estos son tus grupos estrella. Tienen una cohesión mucho más alta. Casi todas sus barras miran a la derecha. 
+    Esto significa que las personas en estos grupos tienen perfiles muy claros y definidos.
+
+    Conclusión Estratégica: No estamos ante grupos estancos, sino ante un continuo social. La estrategia recomendada es
+    aplicar acciones de fidelización agresivas en los Clústeres 2 y 3 (los más definidos) y utilizar estrategias de 
+    alcance masivo (branding general) para el Clúster 1, dado su carácter heterogéneo.
 
 ## Requisitos
 - R >= 4.0.0
