@@ -1,6 +1,6 @@
 
 
- **Proyecto de Segmentación de Clientes con KModes**
+## **Proyecto de Segmentación de Clientes con KModes**
  
  **Descripción del Proyecto**
 
