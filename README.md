@@ -28,7 +28,7 @@ Estructura del Script
         Nivel de Ingreso (cuartiles)
         Engagement (Pasivo, Selectivo, Fanático)
         Nivel de Educación
-. Preparación del Modelo
+ Preparación del Modelo
 
     Selección de variables categóricas para clustering
     Conversión explícita a factores
@@ -60,11 +60,13 @@ Estructura del Script
 
   Análisis de Silueta (Cohesión)
 
-Evaluamos qué tan bien definidos están los grupos sociológicamente.
+    Evaluamos qué tan bien definidos están los grupos sociológicamente.
 
 <img width="842" height="343" alt="GrSiluetas" src="https://github.com/user-attachments/assets/e0bb371d-c75f-4fb0-8c01-fd577c1b6512" />
 
-Interpretación: El análisis muestra un promedio de r round(mean(silueta[,3]), 2). Sociológicamente, esto indica la existencia de dos núcleos duros de comportamiento (Clústeres 2 y 3) altamente accionables, y un grupo más disperso (Clúster 1) que representa a la audiencia generalista.
+    Interpretación: El análisis muestra un promedio de r round(mean(silueta[,3]), 2). Sociológicamente, 
+    esto indica la existencia de dos núcleos duros de comportamiento (Clústeres 2 y 3) altamente accionables, 
+    y un grupo más disperso (Clúster 1) que representa a la audiencia generalista.
 
 
 ## Requisitos
